@@ -111,7 +111,6 @@ ibus_engine_libzhuyin_CXXFLAGS += \
         $(NULL)
 else
 ibus_engine_libzhuyin_CXXFLAGS += \
-        -std=c++0x \
         $(NULL)
 endif
 
